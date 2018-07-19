@@ -1,6 +1,6 @@
-﻿@ECHO off
+@ECHO off
 
-SET pasta="C:\Another Program Files\Java\jdk-9.0.1\"
+SET pasta="C:\Another Program Files\Java\jdk-9.0.1\\"
 
 @ECHO Definindo as variáveis de ambiente JAVA 9 em %pasta%.
 
